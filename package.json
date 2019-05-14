@@ -1,0 +1,13 @@
+{
+  "name": "mhandyman",
+  "version": "1.0.0",
+  "description": "Miguel Handyman Services website",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
